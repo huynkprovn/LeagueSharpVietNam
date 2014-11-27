@@ -2,7 +2,7 @@ LeagueSharpVietNam
 ==================
 
 Add language  VietNam hotfix 4.20 
-This is LeagueSharp VietNam ver 4.19 And My Assemblies
+This is LeagueSharp VietNam ver 4.20 And My Assemblies
 
 -----------Hướng dẫn
 Yêu cầu : Win 7 ,8 .... vì sài .Net Framework 4.5 và không hỗ trợ XP 
