@@ -1,7 +1,7 @@
 LeagueSharpVietNam
 ==================
 
-Add language  VietNam hotfix 4.19
+Add language  VietNam hotfix 4.20 
 This is LeagueSharp VietNam ver 4.19 And My Assemblies
 
 -----------Hướng dẫn
