@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HuyNKUtility.Class.Analytics" Collapsed="true">
+    <Position X="43.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAgAAAAAAAAACAAAAQACAAAAAAAAAAAwAA=</HashCode>
+      <FileName>Class\Analytics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Class.Base" Collapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFAABAAIAAIAAAAAAAAQAAEAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Class.Chat" Collapsed="true">
+    <Position X="47" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Class\Chat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Class.HeroSpell" Collapsed="true">
+    <Position X="45.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABACAAAAAAAAABAAGAAAAAAAAAAAAAAAwg=</HashCode>
+      <FileName>Class\HeroSpell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Class.Item" Collapsed="true">
+    <Position X="48.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Class.Mediator" Collapsed="true">
+    <Position X="43.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAABAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Class\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Class.MessageToActionsMap" Collapsed="true">
+    <Position X="45.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAA=</HashCode>
+      <FileName>Class\MessageToActionsMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Class.Recall" Collapsed="true">
+    <Position X="50.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAEAAA=</HashCode>
+      <FileName>Class\Recall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Class.Smite" Collapsed="true">
+    <Position X="45.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAABAAGAAAAAAAAAAgAAAAwg=</HashCode>
+      <FileName>Class\Smite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Class.Utilities" Collapsed="true">
+    <Position X="48.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABMAAAAAAAABAAAAAAAAEAIIAAAARIDAAAAA=</HashCode>
+      <FileName>Class\Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Class.WeakAction" Collapsed="true">
+    <Position X="43.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\WeakAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.Activators" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feature\Activators\Activators.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.AutoPotion" Collapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAKABAABAAAQAAAAAAAIAAAAAAAQCAAA=</HashCode>
+      <FileName>Feature\Activators\AutoPotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.AutoSmite" Collapsed="true">
+    <Position X="38.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABBQABCAABAqAAAABQAAwAAAAAAAIAAAAAAAQCAQA=</HashCode>
+      <FileName>Feature\Activators\AutoSmite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.AutoLeveler" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAAAAAIAAAAAIAAQIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feature\AutoLeveler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.Health" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAIABAABAAAQAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feature\Health.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.Humanizer" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAAAAgAAIAAAAAAAAQAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Feature\Humanizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.LasthitMarker" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAAAAAAAIAAAABAAAQAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Feature\LasthitMarker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.Ranges" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAIAAAgBAACQAAAAAACAQAAACAAAAAAg=</HashCode>
+      <FileName>Feature\Ranges.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.ImmuneTimer" Collapsed="true">
+    <Position X="34.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAEAAAAAIABAAJAAAUAAAgAAAAAAAABAAACQAA=</HashCode>
+      <FileName>Feature\Timers\ImmuneTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.JungleTimer" Collapsed="true">
+    <Position X="41" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAAAAAAIABIAJAAAVAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Feature\Timers\JungleTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.ObjectTimer" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAAAAAAIAhAAJAAAUAAAIAAAAAEAAAAAACAAA=</HashCode>
+      <FileName>Feature\Timers\ObjectTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.Timers" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feature\Timers\Timers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.BlinkTracker" Collapsed="true">
+    <Position X="45.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feature\Trackers\BlinkTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.CloneTracker" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAAAAAAIAAAABAAAQAAAQAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Feature\Trackers\CloneTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.CooldownTracker" Collapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAAAAAAIAAAAAAAAQAAABAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Feature\Trackers\CooldownTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.LastPositionTracker" Collapsed="true">
+    <Position X="36.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAAQAAgIAIAAAAAAwAAAAAAAAAAABAABAAAAA=</HashCode>
+      <FileName>Feature\Trackers\LastPositionTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.ObjectTracker" Collapsed="true">
+    <Position X="47" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feature\Trackers\ObjectTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.RecallTracker" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAAAAAAIAAAEBAAARAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Feature\Trackers\RecallTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.Trackers" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feature\Trackers\Trackers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.WardTracker" Collapsed="true">
+    <Position X="50.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feature\Trackers\WardTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.WaypointTracker" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAAAAAAIAAAABAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Feature\Trackers\WaypointTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Feature.Trinkets" Collapsed="true">
+    <Position X="29.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAQAAAAAIAAAAIAAAQAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Feature\Trinkets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.HuyNkUtility" Collapsed="true">
+    <Position X="47" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAAAQQAA=</HashCode>
+      <FileName>HuyNkUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Program" Collapsed="true">
+    <Position X="48.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.IoCContainer.Container" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="50.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAACAAAAEAAAAAAAAAAABAAAAAAEAgAAAAAA=</HashCode>
+      <FileName>IoCContainer\Container.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HuyNKUtility.IoCContainer.MappingKey" Collapsed="true">
+    <Position X="50.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAQAIEAQQAAAAAAAAE=</HashCode>
+      <FileName>IoCContainer\MappingKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuyNKUtility.Logger.ConsoleLogger" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAIAAAAAAACAAAAAAAAAAAAAAFAAAA=</HashCode>
+      <FileName>Logger\ConsoleLogger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HuyNKUtility.Logger.FileLogger" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="43.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAIAAAAAAACAAAEAAAAAAAAAAFABAA=</HashCode>
+      <FileName>Logger\FileLogger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HuyNKUtility.Logger.UselessLogger" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAIAAAAAAACAAAAAAAAAAAAAAFAAAA=</HashCode>
+      <FileName>Logger\UselessLogger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HuyNKUtility.Properties.Resources" Collapsed="true">
+    <Position X="43.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>StNtliLQNLhDr2lALUIreqgxBTS77KQCUA04PCOez4Y=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HuyNKUtility.IoCContainer.IContainer" Collapsed="true">
+    <Position X="43.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAACAAAAAAAAAAAAAAAABAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>IoCContainer\IContainer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HuyNKUtility.Logger.ILogger" Collapsed="true">
+    <Position X="45.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAACAAAAAAAAAAAAAAFAAAA=</HashCode>
+      <FileName>Logger\ILogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
